@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1523052416 source:c:\users\inigo\desktop\polimorfismo\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
